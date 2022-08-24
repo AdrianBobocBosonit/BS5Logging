@@ -1,0 +1,20 @@
+-2022-08-24 10:20:35.034 - INFO 3948 --- [main] c.b.BS5Logging.Bs5LoggingApplication     : Started Bs5LoggingApplication in 1.741 seconds (JVM running for 2.073)
+-2022-08-24 10:22:45.945  INFO 10856 --- [main] c.b.BS5Logging.Bs5LoggingApplication     : Starting Bs5LoggingApplication using Java 18.0.2 on L2207045 with PID 10856 (C:\Users\adrian.boboc\IdeaProjects\BS5Logging\target\classes started by adrian.boboc in C:\Users\adrian.boboc\IdeaProjects\BS5Logging)
+2022-08-24 10:22:45.949 DEBUG 10856 --- [main] c.b.BS5Logging.Bs5LoggingApplication     : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-08-24 10:22:45.950  INFO 10856 --- [main] c.b.BS5Logging.Bs5LoggingApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-08-24 10:22:47.258  INFO 10856 --- [main] c.b.BS5Logging.Bs5LoggingApplication     : Started Bs5LoggingApplication in 1.717 seconds (JVM running for 2.013)
+2022-08-24 10:22:59.546 TRACE 10856 --- [http-nio-8080-exec-1] com.bosonit.BS5Logging.Controller        : A TRACE Message
+2022-08-24 10:22:59.547 DEBUG 10856 --- [http-nio-8080-exec-1] com.bosonit.BS5Logging.Controller        : A DEBUG Message
+2022-08-24 10:22:59.547  INFO 10856 --- [http-nio-8080-exec-1] com.bosonit.BS5Logging.Controller        : An INFO Message
+2022-08-24 10:22:59.547  WARN 10856 --- [http-nio-8080-exec-1] com.bosonit.BS5Logging.Controller        : A WARN Message
+2022-08-24 10:22:59.548 ERROR 10856 --- [http-nio-8080-exec-1] com.bosonit.BS5Logging.Controller        : An ERROR Message
+2022-08-24 10:23:00.140 TRACE 10856 --- [http-nio-8080-exec-2] com.bosonit.BS5Logging.Controller        : A TRACE Message
+2022-08-24 10:23:00.140 DEBUG 10856 --- [http-nio-8080-exec-2] com.bosonit.BS5Logging.Controller        : A DEBUG Message
+2022-08-24 10:23:00.140  INFO 10856 --- [http-nio-8080-exec-2] com.bosonit.BS5Logging.Controller        : An INFO Message
+2022-08-24 10:23:00.140  WARN 10856 --- [http-nio-8080-exec-2] com.bosonit.BS5Logging.Controller        : A WARN Message
+2022-08-24 10:23:00.140 ERROR 10856 --- [http-nio-8080-exec-2] com.bosonit.BS5Logging.Controller        : An ERROR Message
+2022-08-24 10:23:00.873 TRACE 10856 --- [http-nio-8080-exec-4] com.bosonit.BS5Logging.Controller        : A TRACE Message
+2022-08-24 10:23:00.874 DEBUG 10856 --- [http-nio-8080-exec-4] com.bosonit.BS5Logging.Controller        : A DEBUG Message
+2022-08-24 10:23:00.874  INFO 10856 --- [http-nio-8080-exec-4] com.bosonit.BS5Logging.Controller        : An INFO Message
+2022-08-24 10:23:00.875  WARN 10856 --- [http-nio-8080-exec-4] com.bosonit.BS5Logging.Controller        : A WARN Message
+2022-08-24 10:23:00.875 ERROR 10856 --- [http-nio-8080-exec-4] com.bosonit.BS5Logging.Controller        : An ERROR Message
